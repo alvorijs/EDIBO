@@ -17,4 +17,19 @@ ctrl l dzeš visu
 cntr 0 atgriezties pie orginala
 cntrl shift t atver jaunu cilni
 EDIBO projekta elektroniska klade
-
+#### shell
+bash viena  
+cd  
+nikdir  
+whoami  
+man ls  
+ls  
+exit iziet no ierobežojuma  
+last   
+pwd  
+man pwd  
+ps1 = enter  
+cal  
+date  
+ls-l arhivs  
+history  
