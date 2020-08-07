@@ -1,9 +1,9 @@
 # EDIBO
 ## Day 01 - Day 02
 ### Topics:
-- Terminal
-- Shell
-- Git 
+- Terminal( not keys)
+- Shell( basic)
+- Git ( basic)
 #### Tasks
 Tesks1 
 Tesks2  
