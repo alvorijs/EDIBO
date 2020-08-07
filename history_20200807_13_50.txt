@@ -1,0 +1,17 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  cd d
+    5  cd Desktop/pwd
+    6  tree
+    7  git
+    8  git clone https://github.com/alvorijs/EDIBO
+    9  hexdump -c README.md
+   10  nano -c README.md
+   11  git add
+   12  git add .l
+   13  git comit -m 20200807_13_30_pirmais_upload_no_cli"
+   14  git comit -m"20200807_13_30_pirmais_upload_no_cli"
+   15  git push origin master
+   16  alvissucis@gmail.com
+   17  git push origin master
