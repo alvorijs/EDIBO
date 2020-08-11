@@ -1,0 +1,12 @@
+VirtualBox --startvm XP
+quartus
+LS
+ls
+mkdir SHELL
+cd SHELL
+pwd
+nano Day04.txt
+touch java.sh
+pwd
+history
+history -w ~/history2.txt
