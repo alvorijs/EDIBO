@@ -1,0 +1,13 @@
+Programēšanas "paņēmieni" vai svarīgākās konstrukcijas:
+1.a. mainīgie - tiek lietoti identifikatori
+(a, b, ab, a_b -drikst), ("a b" - nedrikst)
+2.b. konstantes -"-
+3. operacijas: =,+,-,*,/,%,...
+(parasti operacija notiek ar diviem operandiem)
+4. a. nosacijumu operators - if ( var būt ar else, var būt elif, ...)
+koda izpildes sazarošanai
+5.b. cikla operators - for, while, do... while
+koda daļas izpildīšanas atkartošanai
+(ekvivalents - daudzas manuali blakus sarakstītas līdzigas rindas)
+6. funkcija - ar argumentu/bez argumenta un ar atgriezamiem lielumiem bez atgriezamiem lielumiem.
+ uzrakstit skriptu kursh lietotāja ievadīto skaitli parveido no dex to bin... 
