@@ -1,0 +1,46 @@
+VirtualBox --startvm XP
+quartus
+pwd
+ls -l
+/ EDIBO
+LS -L
+ls -l
+mkdir
+mkdir SHELL
+cd SHELL
+pwd
+ls
+cd test
+nano test
+NAME="Zara Ali"
+echo $NAME
+NAME="Bunkurs"
+ls
+nano test
+./test.sh
+./test
+chmod 744
+ls
+ls -l
+#!/bin/sh
+NAME="Zara Ali"
+echo $NAME
+ls
+ls -lt
+chmod 744 test.sh
+ls -lt
+./test.sh./test.sh
+.\test.sh
+./test.sh
+README.md
+nano #!/bin\sh
+pwd
+ls
+quartus
+history
+history > EDIBO/alvorijs
+history > alvorijs/EDIBO
+pwd
+history > README.txt
+history > test.sh > EDIBO > README.txt
+history -w ~/history.txt
