@@ -1,0 +1,23 @@
+#!/user/bin/python3.6
+print("ievadiet skaitli")
+# a=2**200000
+#te ir rtis darbibas - vertibas sagaidišana, vertibas parveidosana, pieskirs$
+#tapec lai "nelidotu", mes izmantosim try... except ... finaly konstrukci$
+paziime = False = 0
+try:
+a = int ( input ()  )
+while not paziime:==0
+except:
+     print ("Diemzel, cienijamais lietotaj, to, kas ievadits, nevar" ,\
+            "parveidot par vesela tipa skaitli : -( " )
+     print ("Ludzu ievadiet s_k_a_i_t_l_i velreiz")
+#if (a == int) : print("a**100")
+#ja jau ļoti gribas, tad var salidzinat type(a) == int -> rezultats bus True = 1
+if (a == 5):
+    print (a**100)
+    print ("Aprekins ir gatavs" )
+print ("Šis teksts atrodas arpus darbibu bloka - pierakstits bez "),\
+         "atstarpem priekšā, tapec tas paradisies jebkura gadijuma"
+#      print("Atstarpes šeit vais nedrikst but")
+# print ("ievadaisanai vertibai jābut skaitlim")
+# b=a**100
