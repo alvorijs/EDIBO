@@ -1,0 +1,7 @@
+#! \bin bash
+git config --global user .email alvissucis@gmail.com
+git add  .
+git commit -m "20200813_18_17"
+git push origin master
+
+

@@ -1,0 +1,13 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd/EDIBO
+    4  cd EDIBO
+    5  mkdir
+    6  mkdir python
+    7  ls
+    8  history
+    9  git upload
+   10  istory
+   11  history
+   12  history > history 20200813a.txt
+   13  history > history_20200813a.txt
