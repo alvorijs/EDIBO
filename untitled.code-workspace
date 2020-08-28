@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../AspNetCoreWebAPI"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "data"
+		}
+	],
+	"settings": {}
+}
